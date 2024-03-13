@@ -3,6 +3,7 @@
 ## 🚀 Запуск приложения
 
 👉Посмотреть live demo <a href='https://internship-test-5ar8.vercel.app/'>Vercel internship test</a>
+</br>
 👉Посмотреть VK Mini Apps <a href='https://vk.com/app51874866_492887107?ref=snippet_im/'>Vercel internship test</a>
 
 Клонировать реозиторий

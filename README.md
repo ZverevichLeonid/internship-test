@@ -18,3 +18,12 @@
  yarn start
 ```
 
+## В проекте использовались: 
+
+» TypeScript <br>
+» React <br>
+» React Hook Form <br>
+» TanStack Query <br>
+» Сreate-vk-mini-app <br>
+» VKUI <br>
+

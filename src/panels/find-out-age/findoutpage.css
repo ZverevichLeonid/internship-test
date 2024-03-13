@@ -1,0 +1,14 @@
+.input_el_custom {
+  display: block;
+  background: transparent;
+  border: 1px solid black;
+  border-radius: 15px;
+  box-shadow: none;
+  box-sizing: border-box;
+  color: var(--vkui--color_text_primary);
+  min-height: 36px;
+  max-height: 44px;
+  margin: 0;
+  padding: 0 12px;
+  width: 100%;
+}
